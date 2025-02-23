@@ -17,8 +17,14 @@ This repository contains various web development projects built using HTML, CSS,
 
 ## 💡 How to Use :
 
-1. Clone the repository: git clone https://github.com/your-username/Web-development-projects.git
-2. Navigate to the project folder: cd Web-development-projects/project-name
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/your-username/Web-development-projects.git
+  
+2. Navigate to the project folder:
+   ```sh
+   cd Web-development-projects/project-name
+   
 3. Open the index.html file in your browser.
 
 ## 🎯 Future Improvements :
